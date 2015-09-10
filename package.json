@@ -6,7 +6,6 @@
   "author": "Malte Burkhardt <malteburkhardt@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "bcrypt": "^0.8.5",
     "bluebird": "^2.10.0",
     "fs-extra": "^0.24.0",
     "hashids": "^1.0.2",
